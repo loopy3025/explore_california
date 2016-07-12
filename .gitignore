@@ -10,3 +10,4 @@ assets/videos
 !assets/videos/tour_*.mp4
 logfile.html
 beaches/*
+boardwalks/*.html
